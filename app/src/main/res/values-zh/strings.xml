@@ -3,4 +3,12 @@
     <string name="app_name">bjyxApp</string>
     <string name="text">生日快乐！</string>
     <string name="from">百香果</string>
+    <string name="button_convert">转换</string>
+    <string name="label_input">请输入要转换的温度</string>
+    <string name="convert_c2f">摄氏转为华氏</string>
+    <string name="convert_f2c">华氏转为摄氏</string>
+    <string name="tv_title">温度转换器</string>
+    <string name="to_celsius">度->摄氏温度</string>
+    <string name="to_fahren">度->华氏温度</string>
+    <string name="msg_error_input">请输入有效温度值</string>
 </resources>

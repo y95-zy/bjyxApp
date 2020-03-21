@@ -3,4 +3,16 @@
     <string name="action_settings" translatable="false">Settings</string>
     <string name="text">Happy Birthday!</string>
     <string name="from">Yours bxg</string>
+    <string name="label_input">input temperature</string>
+    <string name="button_convert">Convert</string>
+    <string name="tv_title">Temperature convert</string>
+    <string name="tv_result" translatable="false" />
+    <string name="convert_c2f">Celsius to Fahrenheit</string>
+    <string name="convert_f2c">Fahrenheit to Celsius</string>
+
+    <string name="fahren" translatable="false">℉</string>
+    <string name="to_fahren">to_fahren</string>
+    <string name="to_celsius">to_celsius</string>
+    <string name="msg_error_input">Please enter a valid temperature valu</string>
+    <string name="celsius" translatable="false">℃</string>
 </resources>
