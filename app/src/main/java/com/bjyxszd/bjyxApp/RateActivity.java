@@ -1,5 +1,7 @@
 package com.bjyxszd.bjyxApp;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -44,6 +46,11 @@ public class RateActivity extends AppCompatActivity {
             val = r * 500f;
         }
         show.setText(String.valueOf(new DecimalFormat("#.00").format(val)));
+    }
+
+    public void openOne(View v){
+        Intent tel = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:18780198667"));
+        startActivity(tel);
     }
 
 }
