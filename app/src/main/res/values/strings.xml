@@ -9,10 +9,18 @@
     <string name="tv_result" translatable="false" />
     <string name="convert_c2f">Celsius to Fahrenheit</string>
     <string name="convert_f2c">Fahrenheit to Celsius</string>
-
     <string name="fahren" translatable="false">℉</string>
     <string name="to_fahren">to_fahren</string>
     <string name="to_celsius">to_celsius</string>
-    <string name="msg_error_input">Please enter a valid temperature valu</string>
+    <string name="msg_error_input">Please enter a valid temperature value</string>
     <string name="celsius" translatable="false">℃</string>
+
+
+    <string name="inputrmb">Please enter a valid value</string>
+    <string name="convert_r2d">RMB to Dollar</string>
+    <string name="convert_r2e">RMB to Euro</string>
+    <string name="convert_r2w">RMB to Won</string>
+    <string name="msg_error_input2">Please enter a valid value</string>
+
+
 </resources>

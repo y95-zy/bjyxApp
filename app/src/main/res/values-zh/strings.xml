@@ -11,4 +11,11 @@
     <string name="to_celsius">度->摄氏温度</string>
     <string name="to_fahren">度->华氏温度</string>
     <string name="msg_error_input">请输入有效温度值</string>
+
+    <string name="inputrmb">请输入人民币数值</string>
+    <string name="convert_r2d">人民币兑换美元</string>
+    <string name="convert_r2e">人民币兑换欧元</string>
+    <string name="convert_r2w">人民币兑换韩元</string>
+    <string name="msg_error_input2">请输入人民币金额</string>
+
 </resources>
