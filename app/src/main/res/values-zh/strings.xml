@@ -17,5 +17,6 @@
     <string name="convert_r2e">人民币兑换欧元</string>
     <string name="convert_r2w">人民币兑换韩元</string>
     <string name="msg_error_input2">请输入人民币金额</string>
+    <string name="config_lable">跳转</string>
 
 </resources>
