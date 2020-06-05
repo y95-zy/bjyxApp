@@ -28,6 +28,7 @@
     <string name="lab_approve" translatable="false">赞成</string>
     <string name="lab_object" translatable="false">反对</string>
     <string name="lab_abstain" translatable="false">弃权</string>
+    <string name="image1" />
 
     <!-- TODO: Remove or change this placeholder text -->
 
