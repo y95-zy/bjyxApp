@@ -12,6 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Text1Activity"></activity>
         <activity android:name=".Main3Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,9 +22,7 @@
         </activity>
         <activity android:name=".Main2Activity" />
         <activity android:name=".SwufeGetActivity" />
-        <activity android:name=".SwufeActivity">
-
-        </activity>
+        <activity android:name=".SwufeActivity"></activity>
         <activity android:name=".ConfigActivity" />
         <activity android:name=".RateActivity" />
         <activity android:name=".ConvertActivity" />
