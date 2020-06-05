@@ -28,7 +28,11 @@
     <string name="lab_approve" translatable="false">赞成</string>
     <string name="lab_object" translatable="false">反对</string>
     <string name="lab_abstain" translatable="false">弃权</string>
-    <string name="image1" />
+    <string name="btn_reset_label" translatable="false">Reset</string>
+    <string name="btn3_label" translatable="false">+3 points</string>
+    <string name="btn2_label" translatable="false">+2 points</string>
+    <string name="btn1_label" translatable="false">+1 point</string>
+    <string name="tname_label">TeamA</string>
 
     <!-- TODO: Remove or change this placeholder text -->
 
