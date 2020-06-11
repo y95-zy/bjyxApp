@@ -23,16 +23,12 @@
     <string name="config_lable">Config</string>
     <string name="msg_error_input2">Please enter a valid value</string>
     <string name="rate_menu_lable" translatable="false">Setting</string>
-
-    <string name="hello_world" translatable="false">欢迎使用！</string>
-    <string name="lab_approve" translatable="false">赞成</string>
-    <string name="lab_object" translatable="false">反对</string>
-    <string name="lab_abstain" translatable="false">弃权</string>
-    <string name="btn_reset_label" translatable="false">Reset</string>
-    <string name="btn3_label" translatable="false">+3 points</string>
-    <string name="btn2_label" translatable="false">+2 points</string>
-    <string name="btn1_label" translatable="false">+1 point</string>
-    <string name="tname_label">TeamA</string>
+    <string name="click_button1" translatable="false">+1</string>
+    <string name="click_button2" translatable="false">+2</string>
+    <string name="click_button3" translatable="false">+3</string>
+    <string name="click_text" translatable="false">0</string>
+    <string name="click_edit" translatable="false">Team</string>
+    <string name="click_reset" translatable="false">Reset</string>
 
     <!-- TODO: Remove or change this placeholder text -->
 
